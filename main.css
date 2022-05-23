@@ -1,0 +1,11 @@
+body{
+    background-color: grey;
+    color: wheat;
+}
+a{
+    color: greenyellow;
+}
+
+/* .cabeza{
+    display: flex; fex-direction: column; lustify-content: space-around; align-items: center; border: 1px solid black;
+} */
